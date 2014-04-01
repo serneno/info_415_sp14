@@ -335,10 +335,10 @@ Late penalty:
 
 
 # Bonus Topics
-## Bitcoin
-## Near Field Communication
-## Buffer Overflows
-## Metasploit/Armitage
-## Hacking Wireless Devices
-## Arp Spoofing & DNS Poisoning
-## Operating Systems and Rootkits
+- Bitcoin
+- Near Field Communication
+- Buffer Overflows
+- Metasploit/Armitage
+- Hacking Wireless Devices
+- Arp Spoofing & DNS Poisoning
+- Operating Systems and Rootkits
