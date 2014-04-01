@@ -5,7 +5,6 @@
  _/ // /|  / __/ / /_/ /  /__  __/ /___/ /  
 /___/_/ |_/_/    \____/     /_/ /_/_____/  
 ``` 
-=========
 
 # Description
 This course will cover the ins and outs of web application security from the perspectives of the developer, administrator, and attacker. We will cover attacks from the all too common Cross-Site Scripting attack through Cross-Site Request Forgery, SQL Injection, all the way to more advanced topics such as hash length extension attacks, cookie tossing, and specialized vulnerabilities against common web frameworks.
@@ -28,38 +27,38 @@ Late penalty:
 
 ## Week 1 (March 31 to April 4)
 ### Tuesday
-		- who I am and what I do
-		- teaching methodology
-		- class overview
-		- github
-		- where web application security fits into information security
-		- online resources for security in general
-		- bug bounties
-		- responsible disclosure
-		- general tips and tricks
-		- books
-			- Web Application Hacker's Handbook
-			- The Browsers Hacker's Handbook
-			- Tangled Web
-			- Hacking: The Art of Exploitation
-			- Bug Hunter's Diary
-		- anatomy of a web application
-			- frontend
-			- middle layer
-			- database
-			- cookies
-			- authentication
-		- lay of the web application land
-			- web 2.0 hotness
-			- MVC
-			- HTML5
-		- the internet
-			- DNS
-			- routing
-			- SSL/TLS
-			- HTTP
-			- CAs
-			- browsers
+- who I am and what I do
+- teaching methodology
+- class overview
+- github
+- where web application security fits into information security
+- online resources for security in general
+- bug bounties
+- responsible disclosure
+- general tips and tricks
+	- books
+- Web Application Hacker's Handbook
+	- The Browsers Hacker's Handbook
+	- Tangled Web
+	- Hacking: The Art of Exploitation
+	- Bug Hunter's Diary
+- anatomy of a web application
+	- frontend
+	- middle layer
+	- database
+	- cookies
+	- authentication
+- lay of the web application land
+	- web 2.0 hotness
+	- MVC
+	- HTML5
+- the internet
+	- DNS
+	- routing
+	- SSL/TLS
+	- HTTP
+	- CAs
+	- browsers
 
 	### Wednesday
 		- linux
