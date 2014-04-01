@@ -73,7 +73,11 @@ Late penalty:
 	- puzzle
 
 ### Homework
-- read WAHH XSS chapter
+- primary
+	- read WAHH XSS chapter (12)
+	- read WAHH chapter 3
+- secondary
+	- read WAHH chapter 2 & 1
 
 ## Week 2 (April 7 to 11)
 ### Tuesday
@@ -103,12 +107,14 @@ Late penalty:
 	- beef hooks
 
 ### Homework
-- XSS challenges
-	- 10-15 challenges of increasing difficulty
-- XSS exfiltration payload
-- pentest report
-- read CSRF and Clickjacking WAHH chapters
-- due next thursday
+- primary
+	- XSS challenges
+		- 10-15 challenges of increasing difficulty
+	- XSS exfiltration payload
+	- pentest report
+	- due next thursday
+- secondary
+	- reading on CSRF and Clickjacking
 
 ## Week 3 (April 14 to 18)
 ### Tuesday
