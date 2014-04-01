@@ -1,9 +1,10 @@
-
+```
     _____   ____________     __ __ _________
    /  _/ | / / ____/ __ \   / // /<  / ____/
    / //  |/ / /_  / / / /  / // /_/ /___ \  
  _/ // /|  / __/ / /_/ /  /__  __/ /___/ /  
-/___/_/ |_/_/    \____/     /_/ /_/_____/   
+/___/_/ |_/_/    \____/     /_/ /_/_____/  
+``` 
 =========
 
 # Description
@@ -13,20 +14,20 @@ The goals of this course center around familiarizing students with how to recogn
 
 # Grading
 Grade breakdown:
-	- midterm: 20%
-	- final: 30%
-	- hw: 45%
-	- participation: 5%
+- midterm: 20%
+- final: 30%
+- hw: 45%
+- participation: 5%
 
 Late penalty: 
-	- 10% daily 
-	- stops at 30% deduction				
+- 10% daily 
+- stops at 30% deduction				
                                             
 
 # Weekly Schedule
 
 ## Week 1 (March 31 to April 4)
-	### Tuesday
+### Tuesday
 		- who I am and what I do
 		- teaching methodology
 		- class overview
