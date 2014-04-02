@@ -61,15 +61,16 @@ Late penalty:
 	- browsers
 
 ### Wednesday
-- linux
-	- command line stuff
-- git
-	- how to use it
+- session sidejacking demo
+	- vuln 3rd party code
+	- xss password exfil
+- business logic attacks
+	- scenarios
+- create myspace accounts
 
 ### Thursday
 - threat modeling
 	- typical pentest
-	- information security in general
 	- puzzle
 
 ### Homework
@@ -78,6 +79,7 @@ Late penalty:
 	- read WAHH chapter 3
 - secondary
 	- read WAHH chapter 2 & 1
+	- puzzle
 
 ## Week 2 (April 7 to 11)
 ### Tuesday

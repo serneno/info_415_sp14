@@ -109,21 +109,21 @@
 	- 2FA
 
 ### Wednesday
-- linux
-	- command line stuff
-		- find good tutorial
-		- ls
-		- cd
-		- nano/vim
-		- rm
-		- cat
-		- mkdir
-		- mv
-		- cp
-		- man
-- git
-	- how to use it
-	- find good tutorial
+- session sidejacking demo
+	- vuln 3rd party code
+	- xss password exfil
+- business logic attacks
+	- what they are
+	- why they matter
+	- how to prevent them
+	- scenarios 
+		- Winning an Online Auction
+		- "Interactive" T.V.
+		- Free MacWorld 2007 Platinum Passes
+		- Day Trading Contest
+		- Password Recovery
+- create myspace accounts
+	- make one for your favorite animal
 
 ### Thursday
 - threat modeling (pdf)
@@ -143,9 +143,7 @@
 	- go through test cases, explore app and functionality
 	- document as you find things!
 	- 2 days for documentation
-- puzzle?
-	- see who solved it
-	- walk through how to solve it
+- puzzle
 
 ### Homework
 - primary
@@ -153,3 +151,4 @@
 	- read WAHH chapter 3
 - secondary
 	- read WAHH chapter 2 & 1
+	- puzzle
