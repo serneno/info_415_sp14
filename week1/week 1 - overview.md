@@ -122,10 +122,10 @@
 		- Free MacWorld 2007 Platinum Passes
 		- Day Trading Contest
 		- Password Recovery
-- create myspace accounts
-	- make one for your favorite animal
 
 ### Thursday
+- create myspace accounts
+	- make one for your favorite animal
 - threat modeling (pdf)
 	- get example document
 	- read docs, figure out how app works
@@ -133,7 +133,7 @@
 	- define user roles
 	- define assets
 	- define components
-	- asset matrix
+	- access matrix
 	- component diagram
 	- threat tree
 - typical pentest
