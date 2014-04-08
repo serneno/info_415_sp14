@@ -16,6 +16,11 @@
 	- https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
 	- http://www.thespanner.co.uk/
 - XSS demos
+	- simple login page
+- XSS practice
+	- blogged-on.de
+	- testfire.net
+	- http://xss-quiz.int21h.jp/ (challenges 1-8)
 
 ### Wednesday
 - OpenSSL Heartbleed attack walkthrough
@@ -35,6 +40,9 @@
 - do stuff
 	- XSS exfiltration
 	- filter bypassing
+	- DVWA?
+	- xssed?
+	- http://xss-quiz.int21h.jp/ (challenges 10,11,15,16) [12,13,14 in IE?]
 
 ### Homework
 - primary
