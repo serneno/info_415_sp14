@@ -84,35 +84,42 @@ Late penalty:
 ## Week 2 (April 7 to 11)
 ### Tuesday
 - cross-site scripting (XSS)
+	- description
 	- how it works
 	- why it's so common
 	- why it's bad
 	- how to find it
 	- how to mitigate
-	- special tactics
 - reflective XSS
 - stored XSS
 - DOM XSS
+- XSS demos
 
 ### Wednesday
-- XSS demos and challenges
+- OpenSSL Heartbleed attack walkthrough
 
 ### Thursday
 - filter bypass techniques
 	- no spaces (encoding and slashes)
 	- no script tag
-	- xss via images
+	- XSS via images
+	- encoding galore
 	- other weirdness
+- weaponsized XSS
+	- exfil
+	- fake login page
+	- BeEF
+	- XSS-Harvest
 - do stuff
 	- XSS exfiltration
 	- filter bypassing
-	- beef hooks
 
 ### Homework
 - primary
 	- XSS challenges
 		- 10-15 challenges of increasing difficulty
 	- XSS exfiltration payload
+	- spoofed login page
 	- pentest report
 	- due next thursday
 - secondary
