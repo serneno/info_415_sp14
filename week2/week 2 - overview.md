@@ -26,24 +26,28 @@
 - OpenSSL Heartbleed attack walkthrough
 
 ### Thursday
+- a note on heartbleed
+- burp suite setup/configuration
 - filter bypass techniques
-	- no spaces (encoding and slashes)
+	- no spaces
 	- no script tag
-	- encoding galore
+	- no key words
+	- encoding
 	- XSS via images
-	- other weirdness
 - weaponsized XSS
 	- exfil
 	- fake login page
+	- worms
 	- BeEF
 	- XSS-Harvest
 - do stuff
+	- mutilidae
+	- DVWA
+	- XSS challenges: http://xss-quiz.int21h.jp/
 	- XSS exfiltration
 	- filter bypassing
-	- DVWA?
-	- xssed?
-	- http://xss-quiz.int21h.jp/ (challenges 10,11,15,16) [12,13,14 in IE?]
-
+	- xssed
+	
 ### Homework
 - primary
 	- XSS challenges

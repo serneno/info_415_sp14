@@ -118,12 +118,21 @@ Late penalty:
 - primary
 	- XSS challenges
 		- 10-15 challenges of increasing difficulty
-	- XSS exfiltration payload
-	- spoofed login page
+		- must complete 10 for 100% (extra are extra points)
+	- special payloads
+		- XSS exfiltration payload
+		- spoofed login page
 	- pentest report
+		- one overall description (3-5 sentences)
+		- repro steps for 3 highest
+		- mitigation recommendations
+			- ASP.NET
+			- PHP
+			- Ruby on Rails
 	- due next thursday
 - secondary
 	- reading on CSRF and Clickjacking
+		- WAHH Chapter 13 section on "Inducing User Action" (501-515)
 
 ## Week 3 (April 14 to 18)
 ### Tuesday
@@ -140,10 +149,7 @@ Late penalty:
 	- create your own!
 
 ### Wednesday
-- CSRF Lab
-	- finish creating your own
-	- find one in the wild
-	- CSRF your friends
+- how Tor works
 
 ### Thursday
 - go over homework
@@ -169,7 +175,6 @@ Late penalty:
 	- how to find it
 	- how to mitigate
 	- special tactics
-- blind SQL injection
 - xp_cmdshell
 - SQLi demos
 	- regular
@@ -177,15 +182,11 @@ Late penalty:
 	- xp_cmdshell
 
 ### Wednesday
-- SQLi practice
-	- discovery
-	- filter bypass
-	- exfiltration
-	- blind exfiltration
-	- own the server
+- regular expressions
 
 ### Thursday
 - go over homework
+- blind SQL injection
 - SQL injection w/ DMBS
 	- hibernate
 - demo
