@@ -47,15 +47,14 @@
 	- XSS exfiltration
 	- filter bypassing
 	- xssed
-	
+
 ### Homework
 - primary
 	- XSS challenges
-		- 10-15 challenges of increasing difficulty
-		- must complete 10 for 100% (extra are extra points)
+		- 13 challenges of increasing difficulty
+		- must complete 11 for 100% (extra are extra points)
 	- special payloads
 		- XSS exfiltration payload
-		- spoofed login page
 	- pentest report
 		- one overall description (3-5 sentences)
 		- repro steps for 3 highest
