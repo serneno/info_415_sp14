@@ -1,4 +1,6 @@
 ## XSS Homework Grading
+Homework challenges can be found at: http://xss-challenges.r7.io/
+
 ### Part 1 - Vulnerabilities - 12 points
 Each vulnerability will be worth 1 point. To earn 100% on this section you must complete 12 of the 15 challenges. Additional challenges will be worth 1 point each for a total of 13 possible points.
 Each vulnerability must call "alert(0)" within the context of the website in order to demonstrate script execution. If you are unsure whether your script is being executed within the context of the page simply perform an alert(document.cookie) and see if the session cookie appears in the pop-up dialog box. It is preferable that the injected JavaScript execute automatically when the page loads but that may not be possible in all cases. Please try to make it automatic where you can. Each answer must be in the form of a URL (link) that you could send to a victim to click on.
