@@ -1,15 +1,15 @@
 ## XSS Homework Grading
-### Part 1 - Vulnerabilities - 11 points
-Each vulnerability will be worth 1 point. To earn 100% on this section you must complete 11 of the 13 challenges. Additional challenges will be worth 1 point each for a total of 13 possible points.
+### Part 1 - Vulnerabilities - 12 points
+Each vulnerability will be worth 1 point. To earn 100% on this section you must complete 12 of the 14 challenges. Additional challenges will be worth 1 point each for a total of 13 possible points.
 Each vulnerability must call "alert(0)" within the context of the website in order to demonstrate script execution. If you are unsure whether your script is being executed within the context of the page simply perform an alert(document.cookie) and see if the session cookie appears in the pop-up dialog box. It is preferable that the injected JavaScript execute automatically when the page loads but that may not be possible in all cases. Please try to make it automatic where you can. Each answer must be in the form of a URL (link) that you could send to a victim to click on.
 
-TL;DR - for 100% turn in 11 links that cause alert boxes to apear when a victim clicks on them or does something on the page (like mouse over the username).
+TL;DR - for 100% turn in 12 links that cause alert boxes to apear when a victim clicks on them or does something on the page (like mouse over the username).
 
-### Part 2 - Exfiltration Payload - 2 points
+### Part 2 - Exfiltration Payload - 1.5 points
 You must write one additional payload for challenge 0 that successfuly exfiltrates the session cookie. This can be done by using injected JavaScript to make a request to a rogue website such as http://r7.io with the session cookie as one of the request parameters. There are other ways of accomplishing this exfiltration, whatever gets the job done and gets the session token to the attacker's server (in this case, any server). This must also be submitted in the form of a URL (link) that could be sent to a victim to click on.
 
-### Part 3 - The Report - 7 points
-- Description (1 point)
+### Part 3 - The Report - 6.5 points
+- Description (.5 point)
 	- 2 to 3 sentences describing the type of vulernability (in this case: Reflected Cross-Site Scripting), what it is, and why it's bad.
 - Test Steps (3 points)
 	- 3 sets of test steps for the highest challenges you solved. These must include how you found the vulnerability, and why it happened.
