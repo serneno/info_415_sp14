@@ -27,5 +27,10 @@ You must write one additional payload for challenge 0 that successfuly exfiltrat
 	- This should include a few sentences about how to properly mitigate XSS (such as escaping user input) and a code example (should only be a line of code or two)
 	- Include a link for futher reading/reference for the "developer"
 
+### Due Date
+3:30pm (15:30) Thursday April 17th 2014 
+
 ### Note
 Please include links to any pages, guides, tutorials, people, or anything you used to help you figure out these challenges. Please do not cheat or trade answers! If you gently/fairly help one another out make sure to credit the people that helped you in your report. Give credit where credit is due.
+
+No automated tools!
