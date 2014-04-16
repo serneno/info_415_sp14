@@ -280,7 +280,7 @@ Late penalty:
 - mass assignment attack
 
 ### Wednesday
-- XSS worms
+- weaponized XSS
 
 ### Thursday
 - go over homework
