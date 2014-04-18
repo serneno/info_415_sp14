@@ -153,6 +153,7 @@ Late penalty:
 
 ### Thursday
 - go over homework
+- CSRF examples
 - Clickjacking
 	- how it works
 	- why it's bad
@@ -182,7 +183,7 @@ Late penalty:
 	- xp_cmdshell
 
 ### Wednesday
-- regular expressions
+- regular expressions!
 
 ### Thursday
 - go over homework
@@ -232,6 +233,12 @@ Late penalty:
 
 ### Thursday
 - go over homework
+- Clickjacking
+	- http://www.troyhunt.com/2013/05/clickjack-attack-hidden-threat-right-in.html
+	- how it works
+	- why it's bad
+	- how to mitigate
+	- special tactics
 - info leakage
 - HTTP methods
 - cookie entropy

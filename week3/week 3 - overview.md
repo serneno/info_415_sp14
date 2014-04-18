@@ -27,17 +27,11 @@
 	- explain how they work
 - CSRF examples
 	- demo simple CSRF
-	- demo CSRF in the wild
 		- vulnerable website demo
-		- unauthorized comment posting
+		- unauthorized password switching
 	- create your own!
 		- hand make CSRF
 		- CSRF a classmate
-- Clickjacking
-	- how it works
-	- why it's bad
-	- how to mitigate
-	- special tactics
 
 ### Homework
 - CSRF proof of concept
