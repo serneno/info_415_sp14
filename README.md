@@ -24,6 +24,7 @@ Late penalty:
                                             
 
 # Weekly Schedule
+- Resources: BNFDVJRFR7T2WLTKCKGOUYDALP4KP733O
 
 ## Week 1 (March 31 to April 4)
 ### Tuesday
