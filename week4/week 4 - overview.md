@@ -4,13 +4,17 @@
 	- how it works
 	- why it's bad
 	- how to find it
+		- regular
+		- blind
+		- equivalency
+	- pulling data	
+		- the basics
 	- how to mitigate
-	- special tactics
-- xp_cmdshell
+		- the one and only true way
 - SQLi demos
-	- regular
-	- blind
-	- xp_cmdshell
+	- command line demos
+	- DVWA
+	- Mutillidae
 
 ### Wednesday
 - regular expressions!
@@ -18,20 +22,17 @@
 
 ### Thursday
 - go over homework
-- blind SQL injection
+- advanced exfiltration
+	- table names
+	- blind SQL injection
+- xp_cmdshell
 - SQL injection w/ DMBS
 	- hibernate
+- sqlmap
 - demo
 - practice
 
 ### Homework
-- 5 SQL injections
-	- regular 1
-	- regular 2
-	- filtered
-	- blind
-	- hibernate
-- exfiltrate passwords
+- 5-10 SQL injection challenges
 - pentest report
-- read crypto chapters?
 - due next thursday

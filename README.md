@@ -176,34 +176,25 @@ Late penalty:
 	- why it's bad
 	- how to find it
 	- how to mitigate
+	- how to pull data
 	- special tactics
-- xp_cmdshell
 - SQLi demos
-	- regular
-	- blind
-	- xp_cmdshell
 
 ### Wednesday
 - regular expressions!
 
 ### Thursday
 - go over homework
-- blind SQL injection
+- advanced exfiltration
+- xp_cmdshell
 - SQL injection w/ DMBS
 	- hibernate
 - demo
 - practice
 
 ### Homework
-- 5 SQL injections
-	- regular 1
-	- regular 2
-	- filtered
-	- blind
-	- hibernate
-- exfiltrate passwords
+- SQL injection challenges
 - pentest report
-- read crypto chapters?
 - due next thursday
 
 ## Week 5 (April 28 to May 2)
