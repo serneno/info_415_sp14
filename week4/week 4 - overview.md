@@ -19,6 +19,7 @@
 ### Wednesday
 - regular expressions!
 	- http://regex.learncodethehardway.org/book/
+	- http://regexcrossword.com/
 
 ### Thursday
 - go over homework
