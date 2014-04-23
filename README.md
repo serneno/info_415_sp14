@@ -26,6 +26,7 @@ Late penalty:
 # Weekly Schedule
 - Resources: BNFDVJRFR7T2WLTKCKGOUYDALP4KP733O
 
+
 ## Week 1 (March 31 to April 4)
 ### Tuesday
 - who I am and what I do
@@ -82,6 +83,7 @@ Late penalty:
 	- read WAHH chapter 2 & 1
 	- puzzle
 
+
 ## Week 2 (April 7 to 11)
 ### Tuesday
 - cross-site scripting (XSS)
@@ -135,6 +137,7 @@ Late penalty:
 	- reading on CSRF and Clickjacking
 		- WAHH Chapter 13 section on "Inducing User Action" (501-515)
 
+
 ## Week 3 (April 14 to 18)
 ### Tuesday
 - CSRF
@@ -169,6 +172,7 @@ Late penalty:
 - read SQLi WAHH chapter
 - due next thursday
 
+
 ## Week 4 (April 21 to 25)
 ### Tuesday
 - SQL injection
@@ -197,7 +201,14 @@ Late penalty:
 - pentest report
 - due next thursday
 
+
 ## Week 5 (April 28 to May 2)
+### Tuesday - canceled
+### Wednesday - canceled
+### Thursday - canceled
+
+
+## Week 6 (May 5 to 9)
 ### Tuesday
 - cryptography
 	- public/private key
@@ -244,7 +255,8 @@ Late penalty:
 - midterm
 - due next tuesday
 
-## Week 6 (May 5 to 9)
+
+## Week 7 (May 12 to 16)
 ### Tuesday
 - go over midterm
 - authentication issues
@@ -272,7 +284,8 @@ Late penalty:
 - << reading >>
 - due next thursday
 
-## Week 7 (May 12 to 16)
+
+## Week 8 (May 19 to 23)
 ### Tuesday
 - MVC frameworks
 - demo a small MVC app
@@ -292,7 +305,8 @@ Late penalty:
 - << reading >>
 - due next thursday
 
-## Week 8 (May 19 to 23)
+
+## Week 9 (May 26 to 30)
 ### Tuesday
 - race conditions
 - tricking password managers
@@ -319,18 +333,6 @@ Late penalty:
 - none, enjoy memorial day!
 - see some of you at Sasquatch
 
-## Week 9 (May 26 to 30)
-### Tuesday
-- flex time
-
-### Wednesday
-- flex time
-
-### Thursday
-- flex time
-
-### Homework
-- << reading >>
 
 ## Week 10 (June 2 to 6)
 ### Tuesday
