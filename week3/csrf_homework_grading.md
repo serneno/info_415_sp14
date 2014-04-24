@@ -42,3 +42,4 @@ No automated tools!
 ## Resources
 http://www.troyhunt.com/2010/11/owasp-top-10-for-net-developers-part-5.html
 https://www.owasp.org/index.php/Testing_for_CSRF_(OWASP-SM-005)
+www.exploit-db.com/download_pdf/13534/‎(Helps a lot in explaining how the 3rd level works)
